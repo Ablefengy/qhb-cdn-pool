@@ -1,29 +1,33 @@
 {
   "schema": 2,
-  "generated_at": "2026-11-17T09:17:14+08:00",
-  "checked_at": "2026-11-17T01:16:20.740122",
+  "generated_at": "2026-11-17T19:10:15+08:00",
+  "checked_at": "2026-11-17T11:09:24.719830",
   "totals": {
     "alive": 0,
-    "waf_alive": 22,
-    "dead": 67,
+    "waf_alive": 26,
+    "dead": 65,
     "unknown": 6,
-    "total": 95
+    "total": 97
   },
   "baseline_reachable": [],
   "platforms": {
     "6686": {
       "counts": {
         "alive": 0,
-        "waf_alive": 5,
-        "dead": 16,
+        "waf_alive": 9,
+        "dead": 12,
         "unknown": 2,
         "total": 23
       },
       "alive": [],
       "waf_alive": [
+        "004nfaa-wss-an-dcdn.comicbun.com",
         "004nfaa-wss-an-dcdn.11sobgdes.com",
         "004nfaa-wss-an-dcdn.pfzes11xbb.com",
+        "004nfaa-wss-an-dcdn.lovehealthsource.com",
         "004nfaa-wss-an-dcdn.11atesspt.com",
+        "004nfaa-wss-an-dcdn.18jinqu.com",
+        "004nfaa-wss-an-dcdn.czparkbiz.com",
         "004nfaa-wss-an-dcdn.ese11ba.com",
         "004nfaa-wss-an-dcdn.wuesygfd11s.com"
       ],
@@ -31,13 +35,9 @@
         "TLS_DNS": [
           "004nfaa-wss-an-dcdn.11nnqqes.com",
           "004nfaa-wss-an-dcdn.11veesbupod.com",
-          "004nfaa-wss-an-dcdn.18jinqu.com",
           "004nfaa-wss-an-dcdn.axess11tfz.com",
-          "004nfaa-wss-an-dcdn.comicbun.com",
-          "004nfaa-wss-an-dcdn.czparkbiz.com",
           "004nfaa-wss-an-dcdn.djiucf602.com",
           "004nfaa-wss-an-dcdn.journeyrating.com",
-          "004nfaa-wss-an-dcdn.lovehealthsource.com",
           "004nfaa-wss-an-dcdn.lxnteo605.com",
           "004nfaa-wss-an-dcdn.nunshu.com",
           "004nfaa-wss-an-dcdn.oesiy11bd.com",
@@ -58,9 +58,9 @@
       "counts": {
         "alive": 0,
         "waf_alive": 6,
-        "dead": 11,
+        "dead": 12,
         "unknown": 2,
-        "total": 19
+        "total": 20
       },
       "alive": [],
       "waf_alive": [
@@ -75,6 +75,7 @@
         "TLS_DNS": [
           "008gtksap-wss-an-dcdn.ajpveo605.com",
           "008gtksap-wss-an-dcdn.cbnoeo605.com",
+          "008gtksap-wss-an-dcdn.comicbun.com",
           "008gtksap-wss-an-dcdn.dbqtes11s.com",
           "008gtksap-wss-an-dcdn.djiucf602.com",
           "008gtksap-wss-an-dcdn.f11qukes.com",
@@ -97,14 +98,14 @@
       "counts": {
         "alive": 0,
         "waf_alive": 7,
-        "dead": 19,
+        "dead": 20,
         "unknown": 2,
-        "total": 28
+        "total": 29
       },
       "alive": [],
       "waf_alive": [
-        "002we46hc-wss-an-dcdn.bdiry.com",
         "002we46hc-wss-an-dcdn.11aesjbftzc.com",
+        "002we46hc-wss-an-dcdn.bdiry.com",
         "002we46hc-wss-an-dcdn.nuesr11ea.com",
         "002we46hc-wss-an-dcdn.rgvmq.com",
         "002we46hc-wss-an-dcdn.b11shesqi.com",
@@ -115,6 +116,7 @@
         "TLS_DNS": [
           "002we46hc-wss-an-dcdn.11mydtyes.com",
           "002we46hc-wss-an-dcdn.11pbccsesj.com",
+          "002we46hc-wss-an-dcdn.comicbun.com",
           "002we46hc-wss-an-dcdn.dgo11jnesul.com",
           "002we46hc-wss-an-dcdn.djiucf602.com",
           "002we46hc-wss-an-dcdn.dqhdqr.com",
@@ -123,10 +125,10 @@
           "002we46hc-wss-an-dcdn.fjjyhk.com",
           "002we46hc-wss-an-dcdn.gbhdmn.com",
           "002we46hc-wss-an-dcdn.ghtj11hes.com",
+          "002we46hc-wss-an-dcdn.googleadservices.com",
           "002we46hc-wss-an-dcdn.irkcx.com",
           "002we46hc-wss-an-dcdn.lep11jjvesb.com",
           "002we46hc-wss-an-dcdn.mybijiben.com",
-          "002we46hc-wss-an-dcdn.pfzes11xbb.com",
           "002we46hc-wss-an-dcdn.qdfewi.com",
           "002we46hc-wss-an-dcdn.qidueo604.com",
           "002we46hc-wss-an-dcdn.xjzmwh.com",
@@ -163,13 +165,13 @@
           "012dzj29k-wss-an-dcdn.91xiaov.com",
           "012dzj29k-wss-an-dcdn.bdiry.com",
           "012dzj29k-wss-an-dcdn.chuanglh0512.com",
+          "012dzj29k-wss-an-dcdn.comicbun.com",
           "012dzj29k-wss-an-dcdn.djiucf602.com",
           "012dzj29k-wss-an-dcdn.dpnlhesr9.com",
           "012dzj29k-wss-an-dcdn.fgraeo605.com",
           "012dzj29k-wss-an-dcdn.fhzkfspn06017.app",
           "012dzj29k-wss-an-dcdn.gh11nnvesfh.com",
           "012dzj29k-wss-an-dcdn.jsest9j.com",
-          "012dzj29k-wss-an-dcdn.lep11jjvesb.com",
           "012dzj29k-wss-an-dcdn.mybijiben.com",
           "012dzj29k-wss-an-dcdn.pfzes11xbb.com",
           "012dzj29k-wss-an-dcdn.r9fesnc.com",
@@ -189,16 +191,16 @@
     "mode": "github-actions",
     "repository": "Ablefengy/cdn-sentinel",
     "workflow": "scan-cdn",
-    "run_id": "43992875663",
-    "run_url": "https://github.com/Ablefengy/cdn-sentinel/actions/runs/43992875663",
-    "commit": "43b578e5a6baf4f779a3cdb0370f28a2cf1a57a6"
+    "run_id": "44069562303",
+    "run_url": "https://github.com/Ablefengy/cdn-sentinel/actions/runs/44069562303",
+    "commit": "66d8bc3525accd55937d31d3c5b2d8b61a682c46"
   },
   "baseline_ok": false,
   "baseline": {
     "6686": {
       "host": "004nfaa-wss-an-dcdn.czparkbiz.com",
       "ok": false,
-      "detail": "DNS"
+      "detail": "WAF_IP_DENY"
     },
     "1717": {
       "host": "008gtksap-wss-an-dcdn.qtctes11.com",
@@ -218,13 +220,13 @@
   },
   "distribution": {
     "tls": {
-      "OWN": 28,
-      "DNS": 67
+      "OWN": 32,
+      "DNS": 65
     },
     "labels": {
-      "TLS_DNS": 67,
+      "TLS_DNS": 65,
       "UNKNOWN": 6,
-      "WAF_ALIVE": 22
+      "WAF_ALIVE": 26
     },
     "issues": 0
   },
