@@ -1,11 +1,12 @@
 # qhb-cdn-pool
 
-QHB CDN 成品池快照，由私有仓 `cdn-sentinel` 的 scan-cdn 每轮自动推送。
+QHB CDN 加密成品池，由私有仓 `cdn-sentinel` 每轮自动推送。只存密文 `cdn.json.enc`。
 
 ## 拉取地址
 
 ```
-https://raw.githubusercontent.com/Ablefengy/qhb-cdn-pool/main/cdn.json
+https://raw.githubusercontent.com/Ablefengy/qhb-cdn-pool/main/cdn.json.enc
 ```
 
-免登录、免 gh。文件为四态判定明细（`schema=2`），非完整可用池，请经家宽复验后再写入本地配置。
+客户端（`sync_cdn_local.bat`）拉到本地后由 `tools/cdn_crypto.py` 解密、家宽复验，再写入配置。
+密文为四态判定明细（`schema=2`），非完整可用池。
